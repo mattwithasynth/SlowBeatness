@@ -6,7 +6,7 @@
 
 **Title:** Slow Beatness
 
-**Description:** A movement track with pads and leads and a techno feel
+**Description:** Slow tempo with just drum loop and arp bass line that builds using frequency cutoff automation
 
 **Duration:** 0m 14s (00:00:14)
 
