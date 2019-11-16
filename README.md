@@ -12,7 +12,7 @@
 
 **Format:** Logic Pro X
 
-**External Plugins Required:** TAL-U-NO-LX
+**External Plugins Required:** TAL-U-NO-LX, Arturia Analog Collection
 
 **Instruments:** All software instruments
 
