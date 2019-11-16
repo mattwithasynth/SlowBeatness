@@ -8,7 +8,9 @@
 
 **Description:** Slow tempo with just drum loop and arp bass line that builds using frequency cutoff automation
 
-**Duration:** 0m 14s (00:00:14)
+**Duration:** 01m 01s (00:01:01:24)
+
+**Tempo:** 80bps
 
 **Format:** Logic Pro X
 
