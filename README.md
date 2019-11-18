@@ -26,6 +26,6 @@
 
 ---
 
-![Well Being Screenshot](/assets/images/screenshot_thumb.png)
+![Screenshot](/SlowBeatness.logicx/Alternatives/000/WindowImage.jpg)
 
-[View Full Size](/assets/images/screenshot.png "Full Size")
+[View Full Size](/SlowBeatness.logicx/Alternatives/000/WindowImage.jpg "Full Size")
