@@ -10,7 +10,7 @@
 
 **Duration:** 01m 01s (00:01:01:24)
 
-**Tempo:** 80bps
+**Tempo:** 80bpm
 
 **Format:** Logic Pro X
 
